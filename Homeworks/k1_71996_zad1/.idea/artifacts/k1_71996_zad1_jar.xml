@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="k1_71996_zad1:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/k1_71996_zad1_jar</output-path>
+    <root id="archive" name="k1_71996_zad1.jar">
+      <element id="module-output" name="k1_71996_zad1" />
+    </root>
+  </artifact>
+</component>
