@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>geometry</OriginalElement>
+  <nodes>
+    <node x="225.0" y="-24.0">geometry.Line</node>
+    <node x="-324.0" y="-21.0">geometry.Point</node>
+    <node x="-63.0" y="-21.0">geometry.Rectangle</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Group" zoom="1.0" x="30.5" y="148.5" />
+  <SelectedNodes>
+    <node>geometry.Line</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

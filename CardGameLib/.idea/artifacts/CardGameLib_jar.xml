@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CardGameLib:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CardGameLib_jar</output-path>
+    <root id="archive" name="CardGameLib.jar">
+      <element id="module-output" name="CardGameLib" />
+    </root>
+  </artifact>
+</component>

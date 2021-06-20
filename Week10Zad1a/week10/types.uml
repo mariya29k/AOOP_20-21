@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>com.geometry.types</OriginalElement>
+  <nodes>
+    <node x="0.0" y="318.0">com.geometry.types.Circle</node>
+    <node x="0.0" y="80.0">com.geometry.types.Point</node>
+    <node x="40.0" y="0.0">com.geometry.types.Shape</node>
+    <node x="0.0" y="556.0">com.geometry.types.Cylinder</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.geometry.types.Circle" target="com.geometry.types.Point">
+      <point x="0.0" y="-94.0" />
+      <point x="0.0" y="94.0" />
+    </edge>
+    <edge source="com.geometry.types.Point" target="com.geometry.types.Shape">
+      <point x="0.0" y="-94.0" />
+      <point x="0.0" y="15.0" />
+    </edge>
+    <edge source="com.geometry.types.Cylinder" target="com.geometry.types.Circle">
+      <point x="0.0" y="-94.0" />
+      <point x="0.0" y="94.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="56.0" y="140.5" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
